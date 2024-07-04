@@ -1,7 +1,7 @@
 # Used:
-hyprland
-hyprlock
-swww
+- hyprland
+- hyprlock
+- swww
   - swww random wallpaper example script
-Kanagawa color theme
-waybar
+- Kanagawa color theme
+- waybar
